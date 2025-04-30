@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>👋 Hi, I’m JANNIES99<br>🔭 I’m currently working on Fitness Ap<br>🌱 I’m currently learning on AI
+💫 About Me:<br>👋 Hi, I’m JANNIES99<br>🔭 I’m currently working on Fitness Apps<br>🌱 I’m currently learning on AI
 
 
 # 💻 Tech Stack:
